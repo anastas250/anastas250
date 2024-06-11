@@ -3,7 +3,7 @@ Hi 👋 My name is Anastasija
 
 Junior QA Engineer with great potential
 
-* 🌍  I'm based in Baku
+* 🌍  I'm based in Baku, Azerbaijan
 * ✉️  You can contact me at [avjalceva@gmail.com](mailto:avjalceva@gmail.com)
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  Let's build something great together
